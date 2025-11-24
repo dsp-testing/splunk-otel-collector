@@ -29,7 +29,7 @@ require (
 	go.opentelemetry.io/collector/receiver/receiverhelper v0.122.1
 	go.opentelemetry.io/otel/metric v1.35.0
 	go.opentelemetry.io/otel/trace v1.35.0
-	go.uber.org/zap v1.27.0
+	go.uber.org/zap v1.27.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
