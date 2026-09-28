@@ -5,7 +5,7 @@ go 1.23.7
 require (
 	github.com/signalfx/defaults v1.2.2-0.20180531161417-70562fe60657
 	github.com/signalfx/signalfx-agent v1.0.1-0.20230104182534-9eee411fe305
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/component v1.28.1
 	go.opentelemetry.io/collector/component/componenttest v0.122.1
 	go.opentelemetry.io/collector/confmap v1.28.1
@@ -15,7 +15,6 @@ require (
 
 require (
 	github.com/creasty/defaults v1.8.0 // indirect
-	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
@@ -35,7 +34,6 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
-	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3 // indirect
 	github.com/signalfx/golib/v3 v3.3.54 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
@@ -49,6 +47,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/net v0.37.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 	golang.org/x/text v0.23.0 // indirect
